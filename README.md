@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Paul! I keep myself sane by working/maintainging a few side projects. There's some things I'm not ready to share here yet, or are in a state of flux. I'd love to spend more time on public repositories and sharing support for the community, unfortunately I've become quite a bit busier in the last couple of years. I'll try get to feature requests and issues, just be a bit patient so I can catch up 🙂. 
+
+Thanks for stopping by!
+
 <!--
 **happycodelucky/happycodelucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
